@@ -31,7 +31,7 @@ img{
 .feat{
     grid-area: feat;
     height: 20vh;
-    background-image: url('C:/Users/Admin/OneDrive/Desktop/Udacity_Project_1/images/image_5.jpg');
+    background-image: url('../images/image_5.jpg');
     background-size: contain;
 }
 
@@ -93,7 +93,7 @@ img{
     .feat{
         grid-area: feat;
         height: 50vh;
-        background-image: url('C:/Users/Admin/OneDrive/Desktop/Udacity_Project_1/images/image_5.jpg');
+        background-image: url('../images/image_5.jpg');
         background-size: contain;
     }
 
