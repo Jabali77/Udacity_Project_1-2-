@@ -60,7 +60,7 @@ a{
     color: black;
     text-align: center;
     font-size: x-large;
-    background-image: url('C:/Users/Admin/OneDrive/Desktop/Udacity_Project_1/images/image_7.jpg');
+    background-image: url('../images/image_7.jpg');
     
     
 }
@@ -78,13 +78,13 @@ a{
 }
 
 .grid-item-1{
-    background-image: url('C:/Users/Admin/OneDrive/Desktop/Udacity_Project_1/images/image3.jpg');
+    background-image: url('../images/image3.jpg');
     background-size: contain;
 
 }
 
 .grid-item-2{
-    background-image: url('C:/Users/Admin/OneDrive/Desktop/Udacity_Project_1/images/image3.jpg');
+    background-image: url('../images/image3.jpg');
     background-size: contain;
 }
 
